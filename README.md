@@ -1,5 +1,5 @@
-# react-recipe-app (Work in Progress)
+# React Recipe App (Work in Progress)
 
 ## Overview
 Current UI:
-<img src=""/>
+<img src="https://github.com/hdoan002/react-recipe-app/blob/master/react-recipe-app.gif"/>
